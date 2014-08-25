@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Google+ friends list</string>
+    <string name="title_activity_friends_list">FriendsList</string>
+    <string name="share_status_button">Share status</string>
+    <string name="logged_as_text">Currently logged as</string>
+    <string name="revoke_access_button">Revoke Access</string> 
+    <string name="sing_out_button">Sign Out</string>
+    <string name="no_user_text">No user</string>
+    <string name="user_picture">User picture</string>
+    <string name="friends_list_button">Go to friends list</string>
+    <string name="no_contact_text">No contact data found for the connected account</string>
+</resources>
